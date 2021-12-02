@@ -23,7 +23,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[Diagnosis of breast cancer using a logistic classifier](https://github.com/zamanali23/zaman-ali.github.io/blob/master/Log_reg_project.ipynb)
+[Diagnosis of breast cancer using a logistic classifier](https://github.com/zamanali23/Logistic-Regression.git)
 
 <img src="images/breast-cancer.jpeg?raw=true"/>
 
@@ -42,7 +42,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[Identifying symptoms of orthopedic patients as normal or abnormal](https://github.com/zamanali23/K-Means-Clustring-Project/blob/main/K_Means_Project.ipynb)
+[Identifying symptoms of orthopedic patients as normal or abnormal](https://github.com/zamanali23/KNN-Project.git)
 
 <img src="images/knee-brace-ortho.png?raw=true"/>
 
@@ -65,7 +65,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[Recognising Handwritten numbers using Neural Networks](https://github.com/zamanali23/zaman-ali.github.io/blob/master/Handwriting_Recognition_using_CNN_project.ipynb)
+[Recognising Handwritten numbers using Neural Networks](https://github.com/zamanali23/Neural-Network-Project-MNIST-Data.git)
 
 <img src="images/Plot-of-a-Subset-of-Images-from-the-MNIST-Dataset-1024x768.png?raw=true"/>
 
@@ -84,7 +84,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[Deployed Bagging and Boosting models to classify app-based transactions as fraudlent or not](https://github.com/zamanali23/zaman-ali.github.io/blob/master/Bagging_Boosting_Project.ipynb)
+[Deployed Bagging and Boosting models to classify app-based transactions as fraudlent or not](https://github.com/zamanali23/Bagging-and-Boosting-Project.git)
 
 <img src="images/click-fraud1.jpg?raw=true"/>
 
@@ -109,7 +109,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 
 
-[Amazon Fine Food Reviews Analysis](https://github.com/zamanali23/zaman-ali.github.io/blob/master/Amazon_Fine_Food_Reviews_Analysis.ipynb)
+[Amazon Fine Food Reviews Analysis](https://github.com/zamanali23/Amazon-Product-Review-NLP-.git)
 
 <img src="images/amazon.png?raw=true"/>
 
@@ -130,7 +130,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 - Prediction using TF-Idf: -ve review
 
 ***
-[Principle Component Analysis Using Housing Dataset](https://github.com/zamanali23/zaman-ali.github.io/blob/master/pca_project.ipynb)
+[Principle Component Analysis Using Housing Dataset](https://github.com/zamanali23/unsupervised-ML-Project.git)
 
 <img src="images/pca.jpg?raw=true"/>
 
@@ -153,7 +153,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[K Means model for State authorities/Policy makers](https://github.com/zamanali23/zaman-ali.github.io/blob/master/K_Means_Project.ipynb)
+[K Means model for State authorities/Policy makers](https://github.com/zamanali23/K-Means-Clustring-Project.git)
 
 <img src="images/kmean.jpg?raw=true"/>
 
